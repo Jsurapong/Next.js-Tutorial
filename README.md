@@ -1,4 +1,1 @@
-# youtube-2020-feb-nextjs-part2
-Fetch data with nextjs
-
-Continuation of [part 1](https://github.com/bmvantunes/youtube-2020-feb-nextjs-part1)
+https://www.youtube.com/watch?v=7J4iL1HDshQ&list=RDCMUCyU0mNYdX9EHY7rc5yucIZA&index=2
